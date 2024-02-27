@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    color: rgb(65, 65, 65);
+    font-size: 30px;
+
+}
+
+a:hover{
+    background-color: rgb(29, 29, 42);
+    color: #f2cd00;
+}

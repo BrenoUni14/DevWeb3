@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: rgb(29, 29, 42);
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 40%;
+    height: auto;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
