@@ -2,9 +2,12 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>
-      
-    </div>
+    <main>
+      <section>
+        <h2>HOME</h2>
+        <p>Página inicial da primeira aplicação quase completa criada na aula de Laboratório de Desenolvimento Web.</p>
+      </section>
+    </main>
   )
 }
 
